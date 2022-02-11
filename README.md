@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![visitantes](https://visitor-badge.glitch.me/badge?page_id=${KevinTraverso}.${KevinTraverso})
+
 
 <!---
 Kevin-Arnold-Traverso/Kevin-Arnold-Traverso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
