@@ -1,11 +1,12 @@
-## Hi there, I´m @KevinTraverso
+## Hi there, I´m Kevin Traverso 👋🏻
 
+<!--- 
 - 👋 Hi, I’m @KevinTraverso
 - 👀 I’m interested in Hydrology and climatology
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+--->
 
 <!--- 
 ![visitantes](https://visitor-badge.glitch.me/badge?page_id=${KevinTraverso}.${KevinTraverso})
