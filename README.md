@@ -1,4 +1,4 @@
-# Hi there, I´m @KevinTraverso
+## Hi there, I´m @KevinTraverso
 
 - 👋 Hi, I’m @KevinTraverso
 - 👀 I’m interested in Hydrology and climatology
@@ -11,9 +11,7 @@
 ![visitantes](https://visitor-badge.glitch.me/badge?page_id=${KevinTraverso}.${KevinTraverso})
 --->
 
-## Glad to see you here!
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=${KevinTraverso}.${KevinTraverso}.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
+### Glad to see you here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=${KevinTraverso}.${KevinTraverso}.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 
 <!---
 Kevin-Arnold-Traverso/Kevin-Arnold-Traverso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
