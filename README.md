@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 ![visitantes](https://visitor-badge.glitch.me/badge?page_id=${KevinTraverso}.${KevinTraverso})
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=${KevinTraverso}.${KevinTraverso}.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 
 <!---
 Kevin-Arnold-Traverso/Kevin-Arnold-Traverso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
